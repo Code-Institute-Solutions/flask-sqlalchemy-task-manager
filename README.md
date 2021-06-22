@@ -5,3 +5,5 @@
 ### [Lesson 02 - Creating the Database]()
 
 ### [Lesson 03 - Template Inheritance]()
+
+### [Lesson 04 - Adding Categories]()
