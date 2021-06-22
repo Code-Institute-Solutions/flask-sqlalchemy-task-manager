@@ -3,3 +3,5 @@
 ### [Lesson 01 - Putting the Basics Into Place]()
 
 ### [Lesson 02 - Creating the Database]()
+
+### [Lesson 03 - Template Inheritance]()
