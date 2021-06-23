@@ -9,3 +9,5 @@
 ### [Lesson 04 - Adding Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/04_adding_categories)
 
 ### [Lesson 05 - Viewing Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/05_viewing_categories)
+
+### [Lesson 06 - Updating Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/06_updating_categories)
