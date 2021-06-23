@@ -17,3 +17,5 @@
 ### [Lesson 08 - Adding Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/08_adding_tasks)
 
 ### [Lesson 09 - Viewing Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/09_viewing_tasks)
+
+### [Lesson 10 - Updating Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/10_updating_tasks)
