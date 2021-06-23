@@ -21,3 +21,5 @@
 ### [Lesson 10 - Updating Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/10_updating_tasks)
 
 ### [Lesson 11 - Deleting Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/11_deleting_tasks)
+
+### [Lesson 12 - Deploying Our Project to Heroku](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/12_deploying_our_project_to_heroku)
