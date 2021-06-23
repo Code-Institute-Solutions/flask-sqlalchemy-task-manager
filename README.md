@@ -13,3 +13,5 @@
 ### [Lesson 06 - Updating Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/06_updating_categories)
 
 ### [Lesson 07 - Deleting Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/07_deleting_categories)
+
+### [Lesson 08 - Adding Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/08_adding_tasks)
