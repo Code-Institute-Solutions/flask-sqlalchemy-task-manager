@@ -11,3 +11,5 @@
 ### [Lesson 05 - Viewing Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/05_viewing_categories)
 
 ### [Lesson 06 - Updating Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/06_updating_categories)
+
+### [Lesson 07 - Deleting Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/07_deleting_categories)
