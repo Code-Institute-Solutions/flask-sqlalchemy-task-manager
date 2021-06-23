@@ -16,7 +16,6 @@
       "**/.svn": true,
       "**/.vscode": true,
       "**/core.Microsoft*": true,
-      "**/core.mongo*": true,
       "**/core.python*": true,
       "**/CVS": true
    },
