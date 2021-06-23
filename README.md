@@ -7,3 +7,5 @@
 ### [Lesson 03 - Template Inheritance](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/03_template_inheritance)
 
 ### [Lesson 04 - Adding Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/04_adding_categories)
+
+### [Lesson 05 - Viewing Categories](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/05_viewing_categories)
