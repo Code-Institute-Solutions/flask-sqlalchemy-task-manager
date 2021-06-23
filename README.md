@@ -19,3 +19,5 @@
 ### [Lesson 09 - Viewing Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/09_viewing_tasks)
 
 ### [Lesson 10 - Updating Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/10_updating_tasks)
+
+### [Lesson 11 - Deleting Tasks](https://github.com/Code-Institute-Solutions/flask-sqlalchemy-task-manager/tree/main/11_deleting_tasks)
